@@ -18,8 +18,6 @@ The core challenge is that the graph contains not only the nodes to be visited (
 
 This repository contains the Python implementation of the HUTAO-TSP algorithm, which was developed as the final project for the IF1220 Discrete Mathematics course.
 
-![HUTAO-TSP Final Path](https://i.imgur.com/your-image-url.png)
-*Figure 1: Visualization of the final HUTAO-TSP path, balancing direct travel (gray MST lines) with teleportation-enabled jumps (red directed lines).*
 
 ---
 

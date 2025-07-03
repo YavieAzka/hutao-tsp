@@ -72,7 +72,7 @@ python hutao-tsp.py
 ```
 
 The script will execute the algorithm and display the final path visualization using Matplotlib, along with a detailed step-by-step log of its decisions in the console.
-Complexity Analysis
+### Complexity Analysis
 The time complexity of the HUTAO-TSP algorithm is O(N² + N×M), where N is the number of Oculi and M is the number of Teleport Waypoints. This polynomial-time complexity makes it a highly efficient and scalable solution compared to the exponential time required for exact TSP solvers.
 O(N²): Dominates during the MST construction on a dense graph of Oculi.
 O(N×M): Arises from the pre-computation step that finds the nearest Teleport Waypoint for each Oculus.

@@ -66,7 +66,7 @@ cd HUTAO-TSP
 
 
 Run the main script:
-python hutao_tsp_main.py
+python hutao-tsp.py
 
 
 The script will execute the algorithm and display the final path visualization using Matplotlib, along with a detailed step-by-step log of its decisions in the console.

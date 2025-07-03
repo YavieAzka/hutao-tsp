@@ -77,8 +77,8 @@ The time complexity of the HUTAO-TSP algorithm is O(N² + N×M), where N is the 
 O(N²): Dominates during the MST construction on a dense graph of Oculi.
 O(N×M): Arises from the pre-computation step that finds the nearest Teleport Waypoint for each Oculus.
 ### Future Work
-3D Coordinate System: Incorporate the Z-axis (elevation) to account for verticality in the game world.
-*A Pathfinding:** Replace Euclidean distance with a more realistic cost function based on A* pathfinding that considers terrain and obstacles.
-Generalization: Adapt the core heuristic for other real-world logistical problems with fast-travel networks (e.g., public transit systems).
+- 3D Coordinate System: Incorporate the Z-axis (elevation) to account for verticality in the game world.
+- *A Pathfinding:** Replace Euclidean distance with a more realistic cost function based on A* pathfinding that considers terrain and obstacles.
+- Generalization: Adapt the core heuristic for other real-world logistical problems with fast-travel networks (e.g., public transit systems).
 ### Acknowledgements
 This project was completed as part of the IF1220 Discrete Mathematics course at the Institut Teknologi Bandung. 

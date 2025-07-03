@@ -55,19 +55,21 @@ The project requires Python 3.9+ and the following libraries:
 - `matplotlib`
 
 You can install them via pip:
-```bash
+```
 pip install numpy networkx matplotlib
-
+```
 
 Running the Algorithm
 Clone the repository:
+```
 git clone [https://github.com/](https://github.com/)YavieAzka/HUTAO-TSP.git
 cd HUTAO-TSP
-
+```
 
 Run the main script:
+```
 python hutao-tsp.py
-
+```
 
 The script will execute the algorithm and display the final path visualization using Matplotlib, along with a detailed step-by-step log of its decisions in the console.
 Complexity Analysis
